@@ -1,7 +1,7 @@
-sphinx
+snappy
 ======
 
-spdy, php-fpm, nginx configurations
+spdy, nginx, apache, php, php-fpm, configurations that make web apps *snappy*
 
 
 # Prior Art
